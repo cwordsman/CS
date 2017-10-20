@@ -1,0 +1,28 @@
+Physics Function:
+This is a folder of various functions I've come up with to help me with my other subjects.
+
+InClass_7 and In-Class Assignments:
+Methods and Functions that were key to doing the week's homework.
+
+Homework 7
+As a homework assignment we programed a self learning machine that can predict the occurence of something given previous data.
+
+Homework 6
+We designed and tested a Binary tree from scratch.
+
+Homework 5
+We explored Recursion and how to use Graphics.
+
+Homework 4
+We created a Playlist that could take in songs and other playlists
+
+Homework 3
+We created a Library class that could take in patrons and the books and calculate a late fee.
+
+Homework 2
+We created a Person class that would have list of book that he or she has read and could compare with another person
+
+Homework 1
+We created simple functions that solved certain problems. An example would be a function that would return x digits of pi
+or a function that found whether or not something could escape Earth's gravity.
+
