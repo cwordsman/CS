@@ -1,0 +1,22 @@
+Lab 1
+This lab was geared towards helping us understand how to use C++ and it introduced us to List
+
+Lab 2
+This lab required us to build a doubly linked list from scratch. This is a list that points the node before and after it.
+
+Lab 3
+This lab required us to create the stack class from scratch using a list implementation
+
+Lab 4
+In this lab, we designed floating point numbers, and studied how they're represented.
+
+Lab 5
+We created an AVL tree, this is a tree that can balance itself so that the difference between the heights of the subtree 
+is never more than one.
+
+Lab 6
+This lab we learned about the usefulness of hashtables and created one from scratch. I used a List implementation to create
+my table.
+
+Labs 7+
+To be added when completed.
